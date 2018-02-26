@@ -1,2 +1,2 @@
 # Computer-Vision Projects
-## Edge Detection 
+## Lab_1: Edge Detection 
